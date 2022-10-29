@@ -1,0 +1,11 @@
+﻿  Main.cpp
+e:\hti\computer engineering\game\game\main.cpp(12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\hti\computer engineering\game\game\main.cpp(13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\hti\computer engineering\game\game\main.cpp(17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\hti\computer engineering\game\game\main.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\hti\computer engineering\game\game\main.cpp(30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\hti\computer engineering\game\game\main.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\hti\computer engineering\game\game\main.cpp(139): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\hti\computer engineering\game\game\main.cpp(144): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\hti\computer engineering\game\game\main.cpp(146): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Game.vcxproj -> E:\HTI\Computer engineering\Game\Debug\Game.exe
